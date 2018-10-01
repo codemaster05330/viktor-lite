@@ -16,7 +16,7 @@ View more themes from this author: https://digitalcenturysf.com
  = Unzip the package you downloaded from Themeforest, inside you will find a folder Theme and inside this find a file called viktor-lite.zip  
  = Login to your WordPress dashboard and go to Appearance > Themes click on the Install Themes tab and select Upload  
  = Click the Browse button and find the viktor-lite.zip file  
- = After the theme has successfully uploaded click Activate and you're done!   ![](/img/i1.png)
+ = After the theme has successfully uploaded click Activate and you're done!   [](/img/i1.png)
 
  
 2. Via FTP:  
