@@ -23,12 +23,8 @@ View more themes from this author: https://digitalcenturysf.com
  = Unzip the package you downloaded from Themeforest, inside you will find a folder Theme and inside this find a file called viktor-lite.zip. Unzipe that file viktor-lite.zip  
  = Login to your web server via FTP and browse to wp-content/themes and upload the Viktor folder here  
  = Login to your WordPress dashboard and go to Appearance > Themes, the Viktor theme will be visible, click Activate and you're done!  
- 
-3. Log into your WP admin panel and click on "Appearance". Go to "Themes" tab.    
-
-4. Now click on "Viktor Lite" to activate the theme.  
-
-5. Theme Customizer	Options:  
+  
+3. Theme Customizer	Options:  
 
 	a) Basic Settings:
            You can manage here site logo, favicon, banner image, color and text.	  
@@ -40,7 +36,7 @@ View more themes from this author: https://digitalcenturysf.com
         iv)		Blog Section : you can select category of posts and add title, description of posts slider.  
 		v)		For set home page : Go to Settings	-->	Front page displays	--> Checed  "A static page (select below)" --> Front page --> select your Page.  
                  
-7. How to setup custom menu ?  
+4. How to setup custom menu ?  
 
 You can change the content of the top right menu by create your own.  
 
