@@ -13,18 +13,18 @@ View more themes from this author: https://digitalcenturysf.com
 
 1. Via The WordPress Dashboard (Easier):  
 
- = Unzip the package you downloaded from Themeforest, inside you will find a folder Theme and inside this find a file called viktor-lite.zip
- = Login to your WordPress dashboard and go to Appearance > Themes click on the Install Themes tab and select Upload
- = Click the Browse button and find the viktor-lite.zip file
- = After the theme has successfully uploaded click Activate and you're done! ![](/img/i1.png)
+ = Unzip the package you downloaded from Themeforest, inside you will find a folder Theme and inside this find a file called viktor-lite.zip  
+ = Login to your WordPress dashboard and go to Appearance > Themes click on the Install Themes tab and select Upload  
+ = Click the Browse button and find the viktor-lite.zip file  
+ = After the theme has successfully uploaded click Activate and you're done!   ![](/img/i1.png)
 
  
 2. Via FTP:  
- = Unzip the package you downloaded from Themeforest, inside you will find a folder Theme and inside this find a file called viktor-lite.zip. Unzipe that file viktor-lite.zip
- = Login to your web server via FTP and browse to wp-content/themes and upload the Viktor folder here
- = Login to your WordPress dashboard and go to Appearance > Themes, the Viktor theme will be visible, click Activate and you're done!
+ = Unzip the package you downloaded from Themeforest, inside you will find a folder Theme and inside this find a file called viktor-lite.zip. Unzipe that file viktor-lite.zip  
+ = Login to your web server via FTP and browse to wp-content/themes and upload the Viktor folder here  
+ = Login to your WordPress dashboard and go to Appearance > Themes, the Viktor theme will be visible, click Activate and you're done!  
  
-3. Log into your WP admin panel and click on "Appearance". Go to "Themes" tab.  
+3. Log into your WP admin panel and click on "Appearance". Go to "Themes" tab.    
 
 4. Now click on "Viktor Lite" to activate the theme.  
 
