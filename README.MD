@@ -8,7 +8,7 @@ View more themes from this author: https://digitalcenturysf.com
 ## Demo and Documentation
 * **Demo** : https://digitalcenturysf.com/demo/?theme=viktor-wp
 * **Documentation** : https://digitalcenturysf.com/docs/viktor-wp/
-* **Support Forum** : https://wordpress.org/support/theme/customizr
+* **Support Forum** : https://wordpress.org/support/theme/viktor-lite
 
 ## Installation 
 
@@ -71,57 +71,7 @@ GNU General Public License for more details.
 
 ## Theme License
 The **Viktor Lite WordPress theme** is 100% GPLv2. See headers of files for further details.[GNU GPL v2.0 or later](http://www.gnu.org/licenses/gpl-2.0.html)
-
-
-## MeanMenu License
-MeanMenu, Copyright (C) 2012-2014 Chris Wharton @ MeanThemes
-MeanMenu is available under the GNU General Public License
-Source: https://github.com/meanthemes/meanMenu
-
-
-## Modernizr License
-Modernizr, Copyright 2009-2018 Faruk Ates, Paul Irish, Alex Sexton
-Modernizr is available under the the BSD and MIT licenses
-Source: www.modernizr.com/license/
  
-
-## Font Awesome License
-Font Awesome icons, Copyright Dave Gandy
-License: SIL Open Font License
-Source: http://fontawesome.io/
-
- 
-## Bootstrap License
-Bootstrap, Copyright 2011-2016 Twitter
-Bootstrap is released under the MIT license
-Source: http://getbootstrap.com
-
-
-## Google Fonts License
-http://fonts.googleapis.com/css?family=Droid
-http://fonts.googleapis.com/css?family=Raleway
-http://fonts.googleapis.com/css?family=Open+Sans
-They are under SIL Open Font.
-
-
-## Theme screenshot images
-CC0-licensed (GPL-compatible) images from https://www.pexels.com/
-
-## Theme Slider Images
-	-https://www.pexels.com/photo/ballpen-blur-close-up-computer-461077/
-	-https://www.pexels.com/photo/man-holding-white-teacup-in-front-of-gray-laptop-842567/ 
-
-## Theme Post Images
-	-https://www.pexels.com/photo/view-of-cityscape-against-sky-313032/ 
-	-https://www.pexels.com/photo/two-person-in-formal-attire-doing-shakehands-886465/
-	-https://www.pexels.com/photo/adult-blur-boss-business-288477/
-	-https://www.pexels.com/photo/woman-in-black-suit-jacket-facing-man-in-blue-denim-dress-shirt-same-standing-165907/
-	-https://www.pexels.com/photo/businesswomen-businesswoman-interview-meeting-70292/
-	-https://www.pexels.com/photo/adult-chair-colleagues-company-450270/
-	-https://www.pexels.com/photo/white-tablet-computer-on-brown-wooden-table-423368/
-	-https://www.pexels.com/photo/adult-business-camera-commerce-245132/
-	-https://www.pexels.com/photo/person-holding-black-twist-pen-938959/
-
 
 ## Changelog 
   
