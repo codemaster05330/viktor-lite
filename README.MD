@@ -32,11 +32,11 @@ View more themes from this author: https://digitalcenturysf.com
         You can manage here site logo, favicon, banner image, color and text.	  
 
 	b) Home Page Settings:     
-		i)		Go to Page --> Add New   
-		ii)		Page Attributes --> Select "Home Page".   
-		iii)	Our path to Perfection : You can set home page title, images, description and background image.    
-        iv)		Blog Section : you can select category of posts and add title, description of posts slider.  
-		v)		For set home page : Go to Settings	-->	Front page displays	--> Checed  "A static page (select below)" --> Front page --> select your Page.  
+		- Go to Page --> Add New   
+		- Page Attributes --> Select "Home Page".   
+		- Our path to Perfection : You can set home page title, images, description and background image.    
+        - Blog Section : you can select category of posts and add title, description of posts slider.  
+		- For set home page : Go to Settings	-->	Front page displays	--> Checed  "A static page (select below)" --> Front page --> select your Page.  
                  
 4. How to setup custom menu ?  
 
