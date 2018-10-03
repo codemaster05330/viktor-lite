@@ -15,21 +15,21 @@ View more themes from this author: https://digitalcenturysf.com
 1. Via The WordPress Dashboard (Easier):   
 	a) Login to your wp-admin account and go to Appearance -> Themes.   
 
-	![](/img/i1.png)  
+		![](/img/i1.png)  
 
 	b) Select "Add New" button and then click on the "Upload Theme" button.    
 
-	![](/img/i2.png)   
+		![](/img/i2.png)   
 
-	![](/img/i3.png)  
+		![](/img/i3.png)  
 	  
 	c) Click on the Browse button and find the viktor-lite.zip file  and then click on the "Install" button.    
 
-	![](/img/i4.png)  
+		![](/img/i4.png)  
 	
 	d) After the theme has successfully uploaded click Activate and you're done!         
 
-	![](/img/i5.png)  
+		![](/img/i5.png)  
 	
 
  
