@@ -12,23 +12,21 @@ View more themes from this author: https://digitalcenturysf.com
 
 ## Installation 
 
-1. Via The WordPress Dashboard (Easier):  
-
- = Unzip the package you downloaded from Themeforest, inside you will find a folder Theme and inside this find a file called viktor-lite.zip  
- = Login to your WordPress dashboard and go to Appearance > Themes click on the Install Themes tab and select Upload  
- = Click the Browse button and find the viktor-lite.zip file  
- = After the theme has successfully uploaded click Activate and you're done!   ![](/img/i1.png)
-
+1. Via The WordPress Dashboard (Easier):   
+	a) Unzip the package you downloaded from Themeforest, inside you will find a folder Theme and inside this find a file called viktor-lite.zip    
+	b) Login to your WordPress dashboard and go to Appearance > Themes click on the Install Themes tab and select Upload    
+	c) Click the Browse button and find the viktor-lite.zip file    
+	d) After the theme has successfully uploaded click Activate and you're done!   ![](/img/i1.png)  
  
 2. Via FTP:  
- = Unzip the package you downloaded from Themeforest, inside you will find a folder Theme and inside this find a file called viktor-lite.zip. Unzipe that file viktor-lite.zip  
- = Login to your web server via FTP and browse to wp-content/themes and upload the Viktor folder here  
- = Login to your WordPress dashboard and go to Appearance > Themes, the Viktor theme will be visible, click Activate and you're done!  
+	a) Unzip the package you downloaded from Themeforest, inside you will find a folder Theme and inside this find a file called viktor-lite.zip. Unzipe that file viktor-lite.zip    
+	b) Login to your web server via FTP and browse to wp-content/themes and upload the Viktor folder here    
+	c) Login to your WordPress dashboard and go to Appearance > Themes, the Viktor theme will be visible, click Activate and you're done!    
   
 3. Theme Customizer	Options:  
 
 	a) Basic Settings:
-           You can manage here site logo, favicon, banner image, color and text.	  
+        You can manage here site logo, favicon, banner image, color and text.	  
 
 	b) Home Page Settings:   
 		i)		Go to Page --> Add New   
