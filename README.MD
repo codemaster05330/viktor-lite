@@ -37,17 +37,18 @@ View more themes from this author: https://digitalcenturysf.com
                  
 4. How to setup custom menu ?  
 
-You can change the content of the top right menu by create your own.  
+	You can change the content of the top right menu by create your own.  
 
-Create your custom menu :  
+	Create your custom menu :  
 
-i. In your admin panel, go to Appearance > Menu.  
-ii. Add content (pages, ...) to the menu and save.  
+	i. In your admin panel, go to Appearance > Menu.  
+	
+	ii. Add content (pages, ...) to the menu and save.  
 
-Attach the custom menu to the theme :  
+	Attach the custom menu to the theme :  
 
-i. In your admin panel, go to Appearance > Menu.  
-ii. Create a Menu and set checked "Main Menu" to display header menu.  
+	i. In your admin panel, go to Appearance > Menu.  
+	ii. Create a Menu and set checked "Main Menu" to display header menu.  
  	
 
 ## Copyright
