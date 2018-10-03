@@ -19,12 +19,11 @@ View more themes from this author: https://digitalcenturysf.com
 
 	b) Select "Add New" tab and click on the "Upload Theme" link.    
 
-	![](/img/i2.png)  
-	  
-	c) Click the Browse button and find the viktor-lite.zip file  and then click on the "Install" button.     
+	![](/img/i2.png)   
 
 	![](/img/i3.png)  
-
+	  
+	c) Click the Browse button and find the viktor-lite.zip file  and then click on the "Install" button.    
 
 	![](/img/i4.png)  
 	
