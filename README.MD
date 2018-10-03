@@ -26,9 +26,11 @@ View more themes from this author: https://digitalcenturysf.com
 3. Theme Customizer	Options:  
 
 	a) Basic Settings:
+	
         You can manage here site logo, favicon, banner image, color and text.	  
 
 	b) Home Page Settings:   
+
 		i)		Go to Page --> Add New   
 		ii)		Page Attributes --> Select "Home Page".   
 		iii)	Our path to Perfection : You can set home page title, images, description and background image.    
@@ -42,7 +44,7 @@ View more themes from this author: https://digitalcenturysf.com
 	Create your custom menu :  
 
 	i. In your admin panel, go to Appearance > Menu.  
-	
+
 	ii. Add content (pages, ...) to the menu and save.  
 
 	Attach the custom menu to the theme :  
