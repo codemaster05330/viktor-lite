@@ -13,7 +13,7 @@ View more themes from this author: https://digitalcenturysf.com
 
 ## Table of Themes
 
-| [![Viktor Lite - Free Wordpress Theme](/img/thumb-viktor.jpg) Viktor Lite - Free Wordpress Theme](https://digitalcenturysf.com/templates/viktor-premium-corporate-business-theme/) | ![Viktor Lite - Free Wordpress Theme](/img/thumb-viktor.jpg) Viktor Lite - Free Wordpress Theme |
+| [![Viktor Lite - Free Wordpress Theme](/img/thumb-viktor.jpg)](https://digitalcenturysf.com/templates/viktor-premium-corporate-business-theme/) [Viktor Lite - Free Wordpress Theme](https://digitalcenturysf.com/templates/viktor-premium-corporate-business-theme/) | ![Viktor Lite - Free Wordpress Theme](/img/thumb-viktor.jpg) Viktor Lite - Free Wordpress Theme |
 | -------------------------------------------------------------- | ------------------------------------------------------------ | 
 | ![Viktor Lite - Free Wordpress Theme](/img/thumb-viktor.jpg)  Viktor Lite - Free Wordpress Theme  | ![Viktor Lite - Free Wordpress Theme](/img/thumb-viktor.jpg) Viktor Lite - Free Wordpress Theme |
 
