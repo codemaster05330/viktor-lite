@@ -10,6 +10,13 @@ View more themes from this author: https://digitalcenturysf.com
 * **Documentation** : https://digitalcenturysf.com/docs/viktor-wp/
 * **Support Forum** : https://wordpress.org/support/theme/viktor-lite
 
+
+## Table of Themes
+
+| Attempt | #1  | #2  |
+| ------- | --- | --- |
+| Seconds | 301 | 283 |
+
 ## Installation 
 
 1. Via The WordPress Dashboard (Easier):   
