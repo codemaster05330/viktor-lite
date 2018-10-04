@@ -41,21 +41,21 @@ View more themes from this author: https://digitalcenturysf.com
 
  
 2. Via FTP:  
-	a) Unzip the package you downloaded, inside you will find a file called viktor-lite.zip   
-	b) Login to your web server via FTP and browse to wp-content/themes and upload the Viktor-lite folder here    
-	c) Login to your WordPress dashboard and go to Appearance > Themes, the Viktor theme will be visible, click Activate and you're done!    
+	* Unzip the package you downloaded, inside you will find a file called viktor-lite.zip   
+	* Login to your web server via FTP and browse to wp-content/themes and upload the Viktor-lite folder here    
+	* Login to your WordPress dashboard and go to Appearance > Themes, the Viktor theme will be visible, click Activate and you're done!    
   
 3. Theme Customizer	Options:  
 
-	a) Basic Settings:  
+	* Basic Settings:  
         You can manage here site logo, favicon, banner image, color and text.	  
 
-	b) Home Page Settings:     
-		- Go to Page --> Add New   
-		- Page Attributes --> Select "Home Page".   
-		- Our path to Perfection : You can set home page title, images, description and background image.    
-        - Blog Section : you can select category of posts and add title, description of posts slider.  
-		- For set home page : Go to Settings	-->	Front page displays	--> Checed  "A static page (select below)" --> Front page --> select your Page.  
+	* Home Page Settings:     
+		* ** Go to Page --> Add New   
+		* ** Page Attributes --> Select "Home Page".   
+		* ** Our path to Perfection : You can set home page title, images, description and background image.    
+        * ** Blog Section : you can select category of posts and add title, description of posts slider.  
+		* ** For set home page : Go to Settings	-->	Front page displays	--> Checed  "A static page (select below)" --> Front page --> select your Page.  
                  
 4. How to setup custom menu ?  
 
