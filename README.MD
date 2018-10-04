@@ -63,14 +63,14 @@ View more themes from this author: https://digitalcenturysf.com
 
 	Create your custom menu :  
 
-	i. In your admin panel, go to Appearance > Menu.  
+	* In your admin panel, go to Appearance > Menu.  
 
-	ii. Add content (pages, ...) to the menu and save.  
+	* Add content (pages, ...) to the menu and save.  
 
 	Attach the custom menu to the theme :  
 
-	i. In your admin panel, go to Appearance > Menu.  
-	ii. Create a Menu and set checked "Main Menu" to display header menu.  
+	* In your admin panel, go to Appearance > Menu.  
+	* Create a Menu and set checked "Main Menu" to display header menu.  
  	
 
 ## Copyright
