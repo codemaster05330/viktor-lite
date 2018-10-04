@@ -13,9 +13,9 @@ View more themes from this author: https://digitalcenturysf.com
 
 ## Table of Themes
 
-| Attempt | #1  | #2  |
-| ------- | --- | --- |
-| Seconds | 301 | 283 |
+| ![Viktor Lite - Free Wordpress Theme](/img/thumb-viktor.jpg)   | ![Viktor Lite - Free Wordpress Theme](/img/thumb-viktor.jpg) |
+| -------------------------------------------------------------- | ------------------------------------------------------------ | 
+| ![Viktor Lite - Free Wordpress Theme](/img/thumb-viktor.jpg)   | ![Viktor Lite - Free Wordpress Theme](/img/thumb-viktor.jpg) |
 
 ## Installation 
 
