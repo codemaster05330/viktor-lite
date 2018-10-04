@@ -96,59 +96,59 @@ The **Viktor Lite WordPress theme** is 100% GPLv2. See headers of files for furt
 
 ## Changelog
 
-### 1.1.9
-* Footer credit text updated.
+### 1.2.6
+* Single banner image udpated.
   
-### 1.2.0
-* Customize control js updated.
-  
-### 1.2.1
-* Updated theme option.
-  
-### 1.2.2
-* Updated theme info page from backend.
-  
-### 1.2.3
-* Updated slider & fornt page
+### 1.2.5
+* Fix blog psot icon position
   
 ### 1.2.4
 * Style issue fixed.
   
-### 1.2.5
-* Fix blog psot icon position
-    
-### 1.0.9
-* screenshot image updated. 
+### 1.2.3
+* Updated slider & fornt page
+  
+### 1.2.2
+* Updated theme info page from backend.
+  
+### 1.2.1
+* Updated theme option.
 
-### 1.1.3
-* Data escaping issue fixed.
+### 1.2.0
+* Customize control js updated.
+
+### 1.1.9
+* Footer credit text updated.
+  
+### 1.1.8
+* Custom CSS issue fixed.
+
+### 1.1.7
+* Updated the font awesome resource to the latest version
+  
+### 1.1.6
+* Translation file updated.
+
+### 1.1.5
+* Redirect to the info page after activate the theme.
 
 ### 1.1.4
 * Theme info added to the backend.
 
-### 1.1.5
-* Redirect to the info page after activate the theme.
-  
-### 1.1.6
-* Translation file updated.
-  
-### 1.1.7
-* Updated the font awesome resource to the latest version
-  
-### 1.1.8
-* Custom CSS issue fixed.
-  
-### 1.1.0
-* Slider added.
-
-### 1.1.1
-* Front page created.
+### 1.1.3
+* Data escaping issue fixed.
 
 ### 1.1.2
 * Style issue fixed.
 
-### 1.2.6
-* Single banner image udpated.
+### 1.1.1
+* Front page created.
+  
+### 1.1.0
+* Slider added.
+
+### 1.0.9
+* screenshot image updated. 
 
 ### 1.0.8
 * Theme sniffer test passed.
