@@ -13,6 +13,13 @@ View more themes from this author: https://digitalcenturysf.com
 
 ## Table of Themes
 
+```css
+   // code for coloring
+   .markdown-body table tr:nth-child(2n) {
+	    background-color: transparent;
+	}
+```
+
 | [<img align="left" width="80" height="80" src="/img/thumb-viktor.jpg">](https://digitalcenturysf.com/templates/viktor-premium-corporate-business-theme/) <p align="left"><a href="https://digitalcenturysf.com/templates/viktor-premium-corporate-business-theme/"> 1. Viktor Lite - Free Wordpress Theme </a></p> | [<img align="left" width="80" height="80" src="/img/thumb-hexo.jpg">](https://digitalcenturysf.com/templates/hexo-premium-realestate-theme/) <p align="left"><a href="https://digitalcenturysf.com/templates/hexo-premium-realestate-theme/"> 2. Hexo Lite - Free Wordpress Theme </a></p> | [<img align="left" width="80" height="80" src="/img/thumb-chili.jpg">](https://digitalcenturysf.com/templates/chili-multi-purpose-restaurant-theme/) <p align="left"><a href="https://digitalcenturysf.com/templates/chili-multi-purpose-restaurant-theme/"> 3. Chili Lite - Free Wordpress Theme </a></p> |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | 
 | [<img align="left" width="80" height="80" src="/img/thumb-cassandra.jpg">](https://digitalcenturysf.com/product/cassandra-fashion1-wordpress-theme/) <p align="left"><a href="https://digitalcenturysf.com/product/cassandra-fashion1-wordpress-theme/"> 4. Cassandra Lite - Free Wordpress Theme </a></p> | [<img align="left" width="80" height="80" src="/img/thumb-hired.jpg">](https://digitalcenturysf.com/product/hired-professional-resume-wordpress-theme/) <p align="left"><a href="https://digitalcenturysf.com/product/hired-professional-resume-wordpress-theme/"> 5. Hired Lite - Free Wordpress Theme </a></p> | [<img align="left" width="80" height="80" src="/img/thumb-envestpro.jpg">](https://digitalcenturysf.com/templates/envest-pro-business-multipurpose-template/) <p align="left"><a href="https://digitalcenturysf.com/templates/envest-pro-business-multipurpose-template/"> 6. EnvestPro Lite - Free Wordpress Theme </a></p> |
