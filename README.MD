@@ -13,12 +13,6 @@ View more themes from this author: https://digitalcenturysf.com
 
 ## Table of Themes
 
-```css
-   // code for coloring
-   .markdown-body table tr:nth-child(2n) {
-	    background-color: transparent;
-	}
-```
 
 | [<img align="left" width="80" height="80" src="/img/thumb-viktor.jpg">](https://digitalcenturysf.com/templates/viktor-premium-corporate-business-theme/) <p align="left"><a href="https://digitalcenturysf.com/templates/viktor-premium-corporate-business-theme/"> 1. Viktor Lite - Free Wordpress Theme </a></p> | [<img align="left" width="80" height="80" src="/img/thumb-hexo.jpg">](https://digitalcenturysf.com/templates/hexo-premium-realestate-theme/) <p align="left"><a href="https://digitalcenturysf.com/templates/hexo-premium-realestate-theme/"> 2. Hexo Lite - Free Wordpress Theme </a></p> | [<img align="left" width="80" height="80" src="/img/thumb-chili.jpg">](https://digitalcenturysf.com/templates/chili-multi-purpose-restaurant-theme/) <p align="left"><a href="https://digitalcenturysf.com/templates/chili-multi-purpose-restaurant-theme/"> 3. Chili Lite - Free Wordpress Theme </a></p> |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | 
