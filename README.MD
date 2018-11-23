@@ -100,6 +100,15 @@ The **Viktor Lite WordPress theme** is 100% GPLv2. See headers of files for furt
 ## Changelog
 
 ### 1.2.9
+* Resources update
+
+### 1.2.8
+* Compatible with child theme
+
+### 1.2.7
+* Readme file updated
+
+### 1.2.6
 * Single banner image udpated.
   
 ### 1.2.5
