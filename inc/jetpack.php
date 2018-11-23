@@ -4,6 +4,7 @@
  *
  * @link https://jetpack.com/
  *
+ * @version 1.2.9
  * @package Viktor_lite
  */
 

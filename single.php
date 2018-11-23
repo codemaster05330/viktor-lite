@@ -4,6 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
  *
+ * @version 1.2.9
  * @package Viktor_lite
  */
 

@@ -2,6 +2,7 @@
 /**
  * DCSF_viktor Theme Customizer.
  *
+ * @version 1.2.9
  * @package Viktor_lite
  */
 

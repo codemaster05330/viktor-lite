@@ -4,6 +4,7 @@
  *
  * Eventually, some of the functionality here could be replaced by core features.
  *
+ * @version 1.2.9
  * @package Viktor_lite
  */
 

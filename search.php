@@ -4,6 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#search-result
  *
+ * @version 1.2.9
  * @package Viktor_lite
  */
 $viktor_lite_option = new Viktor_Lite_Options();

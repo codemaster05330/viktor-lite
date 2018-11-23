@@ -4,7 +4,7 @@ Contributors: (digitalcenturysf)
 Tags: blog, news, two-columns, three-columns, left-sidebar, right-sidebar,  custom-header, custom-menu, editor-style, featured-images, flexible-header, footer-widgets, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready 
 Requires at least: 4.0
 Tested up to: 4.7 
-Stable tag: 1.2.7
+Stable tag: 1.2.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,6 +19,12 @@ View more themes from this author: https://digitalcenturysf.com
 == Changelog ==
 
 ## Changelog
+
+= 1.2.9 =
+* Resources update
+
+= 1.2.8 =
+* Compatible with child theme
 
 = 1.2.7 =
 * Readme file updated
@@ -84,10 +90,10 @@ View more themes from this author: https://digitalcenturysf.com
 * Initial Release
 
 == Resources ==
-
-* All images included in the theme are either created for the theme and inheriting its license, or licensed under CC0.
-* All other theme assets like scripts, stylesheets are licensed under GNU General Public License version 2, see file license.txt, or GPL compatible licenses like BSD, MIT, SIL. See headers of each files for further details.
-
  
- 
+* screenshot.png © 2018 Pixabay , CC0, https://www.pexels.com/photo/ballpen-blur-close-up-computer-461077/
+* Font Awesome © 2018 Dave Gandy, STL, http://fontawesome.io/
+* Bootstrap © 2011-2016 Twitter, MIT, http://getbootstrap.com 
+* Modernizr © 2009-2018 Faruk Ates, Paul Irish, Alex Sexton, BSD and MIT, www.modernizr.com/license 
+* MeanMenu © 2009-2018 2012-2014 Chris Wharton @ MeanThemes, GNU, https://github.com/meanthemes/meanMenu 
  

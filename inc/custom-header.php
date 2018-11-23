@@ -1,4 +1,10 @@
 <?php
+/** 
+ *
+ * @version 1.2.9
+ * @package Viktor_lite
+ */
+
 /**
  * Sample implementation of the Custom Header feature.
  *

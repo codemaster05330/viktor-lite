@@ -9,6 +9,7 @@
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
+ * @version 1.2.9
  * @package Viktor_lite
  */ 
 get_header(); ?>

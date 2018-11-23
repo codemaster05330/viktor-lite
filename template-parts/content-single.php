@@ -4,6 +4,7 @@
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
+ * @version 1.2.9
  * @package Viktor_lite
  */
 
@@ -66,8 +67,7 @@
   </div>
 <?php endif; ?>
 <?php
- $viktor_lite_authordesc = get_the_author_meta( 'description' );
- if( !empty($viktor_lite_authordesc) ): ?>
+ $viktor_lite_authordesc = get_the_author_meta( 'description' );  ?>
   <div class="row author-post">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
           <div class="about-author-post">
@@ -85,5 +85,4 @@
               </div>
           </div>
       </div>
-  </div>
-<?php endif; ?>
+  </div> 

@@ -4,6 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
+ * @version 1.2.9
  * @package Viktor_lite
  */
 define("VIKTOR_LITE_CSS", get_template_directory_uri() . "/css/" );
@@ -81,32 +82,19 @@ function viktor_lite_setup() {
 	add_theme_support( 'custom-header', array(
 		'flex-width'    => true, 
 		'flex-height'    => true, 
-		'default-image' => get_template_directory_uri() . '/img/banner2.jpeg',
+		'default-image' => get_template_directory_uri() . '/img/bennar.jpg',
 	) );
 	/*
 	 * This theme styles the visual editor to resemble the theme style,
 	 * specifically font, colors, icons, and column width.
 	 */
 	add_editor_style( array( 'css/editor-style.css', viktor_lite_fonts_url() ) );
-
-	// redirecto to about viktro page
-	viktor_lite_redirect_to();
-
+ 
 
 }
 endif;
 add_action( 'after_setup_theme', 'viktor_lite_setup' );
-
-// redirect function of viktor
-function viktor_lite_redirect_to(){ 
-	global $pagenow;
-
-	if ( is_admin() && 'themes.php' == $pagenow && isset( $_GET['activated'] ) ) {
-
-		wp_redirect(admin_url("themes.php?page=viktor-about")); 
-		
-	}	
-}
+ 
 
 /**
  *	Register Fonts
@@ -182,7 +170,6 @@ function viktor_lite_content_width() {
 add_action( 'after_setup_theme', 'viktor_lite_content_width', 0 );
 
 
-
 /**
  * Enqueue scripts and styles.
  */
@@ -193,10 +180,7 @@ function viktor_lite_scripts() {
 
 	// LOAD CSS 
 	wp_enqueue_style( 'bootstrap', VIKTOR_LITE_CSS . 'bootstrap.css' ); 
-	wp_enqueue_style( 'animate', VIKTOR_LITE_CSS . 'animate.css' ); 
-	wp_enqueue_style( 'meanmenu', VIKTOR_LITE_CSS . 'meanmenu.css' ); 
-	wp_enqueue_style( 'nivo-slider', VIKTOR_LITE_CSS . 'nivo-slider.css' );
-	wp_enqueue_style( 'nivo-preview', VIKTOR_LITE_CSS . 'preview.css' );
+	wp_enqueue_style( 'meanmenu', VIKTOR_LITE_CSS . 'meanmenu.css' );  
 	wp_enqueue_style( 'flaticon', VIKTOR_LITE_CSS . 'flaticon.css' ); 
 	wp_enqueue_style( 'font-awesome', VIKTOR_LITE_CSS . 'font-awesome.css' ); 
 	wp_enqueue_style( 'viktor-style', get_stylesheet_uri() );  
@@ -205,11 +189,7 @@ function viktor_lite_scripts() {
 	// LOAD JS
 	wp_enqueue_script( 'modernizr', VIKTOR_LITE_JS. 'modernizr-2.8.3.js', array(), '20151215', false );
 	wp_enqueue_script( 'bootstrap', VIKTOR_LITE_JS. 'bootstrap.js', array('jquery','masonry'), '20151215', true ); 
-	wp_enqueue_script( 'meanmenu', VIKTOR_LITE_JS. 'jquery.meanmenu.js', array(), '20151215', true ); 
-	wp_enqueue_script( 'nivo-slider', VIKTOR_LITE_JS . 'nivo.slider.js', array(), '20151215', true );
-	wp_enqueue_script( 'counterup', VIKTOR_LITE_JS. 'jquery.counterup.min.js', array(), '20151215', true );
-	wp_enqueue_script( 'waypoints', VIKTOR_LITE_JS. 'waypoints.min.js', array(), '20151215', true );  
-	wp_enqueue_script( 'nivo-custom', VIKTOR_LITE_JS . 'custom.js', array(), '20151215', true );
+	wp_enqueue_script( 'meanmenu', VIKTOR_LITE_JS. 'jquery.meanmenu.js', array(), '20151215', true );  
 	wp_enqueue_script( 'viktor-plugins', VIKTOR_LITE_JS. 'plugins.js', array(), '20151215', true );  
 	wp_enqueue_script( 'viktor-main', VIKTOR_LITE_JS . 'main.js', array(), '20151215', true );
 	wp_enqueue_script( 'viktor-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
@@ -219,14 +199,6 @@ function viktor_lite_scripts() {
 		wp_enqueue_script( 'comment-reply' );
 	}
 
-	$viktor_script_params = array( 
-	   'autoplay' => $viktor_lite_option->viktor_lite_slider_autoplay(), 
-	   'speed' => $viktor_lite_option->viktor_lite_slider_speed(),
-	   'slidespeed' => $viktor_lite_option->viktor_lite_sliders_speed(),
-	   'seffects' => $viktor_lite_option->viktor_lite_slider_effect() 
-	);
-	wp_localize_script( 'nivo-custom', 'scriptParams', $viktor_script_params );
-
 }
 add_action( 'wp_enqueue_scripts', 'viktor_lite_scripts' );
 
@@ -234,8 +206,7 @@ add_action( 'wp_enqueue_scripts', 'viktor_lite_scripts' );
 /**
  * Includes All Files.
  */ 
-// Load Viktor Framework Functions . 
-require get_template_directory() . '/inc/framework-config.php';  
+// Load Viktor Framework Functions .  
 require get_template_directory() . '/inc/viktor-framework-functions.php';  
 // Implement the Custom Header feature.
 require get_template_directory() . '/inc/custom-header.php';
@@ -247,39 +218,10 @@ require get_template_directory() . '/inc/extras.php';
 require get_template_directory() . '/inc/customizer.php';
 // Load Jetpack compatibility file. 
 require get_template_directory() . '/inc/jetpack.php';
-// Load slider file. 
-require get_template_directory() . '/inc/slider.php';
 // Load banner file. 
-require get_template_directory() . '/inc/banner.php';
-// Load services file. 
-require get_template_directory() . '/inc/service-section.php';
-// Load counter file. 
-require get_template_directory() . '/inc/counter-section.php';
-// Load blog file. 
-require get_template_directory() . '/inc/blog-section.php';
+require get_template_directory() . '/inc/banner.php'; 
 // Load Register Widgets.
-require get_template_directory() . '/inc/widgets/register-widgets.php';  
-// Load Required plugins
-require get_template_directory() . '/plugins/class-tgm-plugin-activation.php';
-// Theme info
-require get_template_directory() . '/inc/upsell/theme-about.php';
-
-
- 
-
-add_action( 'tgmpa_register', 'viktor_lite_recommend_plugin' );
-function viktor_lite_recommend_plugin() {
-
-    $plugins[] = array(
-            'name'               => esc_html__('Redux Framework','viktor-lite'),
-            'slug'               => 'redux-framework',
-            'required'           => false,
-    );
- 
-
-    tgmpa( $plugins);
-
-}
+require get_template_directory() . '/inc/widgets/register-widgets.php';   
 
 
 /**
@@ -334,11 +276,11 @@ function viktor_lite_comment_form_allowed_tags( $defaults ) {
  */   
 add_action( 'comment_form_after_fields', 'viktor_lite_add_textarea' );
 add_action( 'comment_form_logged_in_after', 'viktor_lite_add_textarea' );
-
 function viktor_lite_add_textarea()
 {
     echo '<p class="comment-form-comment"><textarea id="comment" name="comment" placeholder="Your Comment" cols="45" rows="8" maxlength="65525"  required="required"></textarea></p>';
 }
+
 
 /**
  * remove comment fields
@@ -357,6 +299,7 @@ function viktor_lite_remove_comment_fields($fields) {
     return $fields;
 }
 add_filter('comment_form_default_fields','viktor_lite_remove_comment_fields');
+
 
 /**
  *  banner title
@@ -409,7 +352,6 @@ function viktor_lite_banner_title(){
 /**
  *  Breadcrumb
  */ 
-
 function viktor_lite_breadcrumb(){
 
     global $data, $post;
@@ -517,8 +459,8 @@ function viktor_lite_add_css() {
 	}else{ 
 		$viktor_lite_hdr_img = get_header_image();
 	}
-   $logo = get_theme_mod( 'custom_logo' );
-   $image = wp_get_attachment_image_src( $logo , 'full' ); 
+    $logo = get_theme_mod( 'custom_logo' );
+    $image = wp_get_attachment_image_src( $logo , 'full' ); 
  
     $hdrtxt = get_theme_mod( 'header_textcolor' );
     $value = get_theme_mod( 'brand_color' );
@@ -551,14 +493,5 @@ function viktor_lite_short_text_remove_shortcode($start=0,$end=90){
 	$viktor_lite_desc_cut = strrpos($viktor_lite_desc,' ');
 	$viktor_lite_desc = substr($viktor_lite_desc,0,$viktor_lite_desc_cut);
 	echo esc_html($viktor_lite_desc);
-}
-
-/**
- * Remove plugin flag from redux. Get rid of redirect
- * 
- */
-add_action( 'redux/construct', 'viktor_lite_remove_as_plugin_flag' );
-function viktor_lite_remove_as_plugin_flag() {
-    ReduxFramework::$_as_plugin = false;
 }
 

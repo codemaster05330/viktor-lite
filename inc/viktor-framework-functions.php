@@ -5,6 +5,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
+ * @version 1.2.9
  * @package Viktor_lite
  */
 
@@ -23,54 +24,7 @@ Class Viktor_Lite_Options{
         <a href="<?php echo esc_url( home_url( '/' ) ); ?>"><span><?php bloginfo( 'name' ); ?></span></a>
        <?php }
     } 
- 
 
-    // slider options
-    public function viktor_lite_slider_autoplay(){
-        global $viktor_lite;
-        if(''!=$viktor_lite['slide-autoplay']){
-            if(1==$viktor_lite['slide-autoplay']){
-                return false;
-            }else{
-                return true;
-            } 
-        }else{
-            return false;
-        } 
-    }
-    public function viktor_lite_slider_effect(){
-        global $viktor_lite;
-        if(isset($viktor_lite['slide-effect'])){
-            return $viktor_lite['slide-effect'];
-        }else{
-            return "slideInLeft";
-        } 
-    }
-    public function viktor_lite_slider_number(){
-        global $viktor_lite;
-        if(isset($viktor_lite['slide-number'])){
-            return $viktor_lite['slide-number'];
-        }else{
-            return 9;
-        } 
-    }
-    public function viktor_lite_slider_speed(){
-        global $viktor_lite;
-        if(!empty($viktor_lite['slide-speed'])){
-            return $viktor_lite['slide-speed'];
-        }else{
-            return 500;
-        } 
-    }
-    public function viktor_lite_sliders_speed(){
-        global $viktor_lite;
-        if(!empty($viktor_lite['sslide-speed'])){
-            return $viktor_lite['sslide-speed'];
-        }else{
-            return 5000;
-        } 
-    }
- 
     // copyright test options
     public function copyrightText(){ 
         $copy_text = get_theme_mod( 'v_copyright_text' );
@@ -79,11 +33,10 @@ Class Viktor_Lite_Options{
         <p><?php echo esc_html($copy_text); ?></p>
        <?php
         }else{
-            $url1 =  esc_url('https://digitalcenturysf.com/'); 
-            $url2 =  esc_url('https://digitalcenturysf.com/templates/'); 
-            $text1 =  esc_html__('Best WordPress Themes','viktor-lite'); 
-            $text2 =  esc_html__('Best WordPress Themes','viktor-lite'); 
-            printf( '<p><a href="%s">%s</a> Powered by <a class="credits" href="%s">%s</a></p>', $url1, $text1, $url2, $text2 );
+          $url1 =  esc_url('https://digitalcenturysf.com/templates/');
+          $url2 =  esc_url('https://digitalcenturysf.com/'); 
+          $text =  esc_html__('WordPress Themes','viktor-lite'); 
+          printf( '<p><a href="%s">%s</a> Powered by <a class="credits" href="%s">%s</a></p>', esc_url($url1), esc_html($text), esc_url($url2), esc_html($text) );
         }
     }
 

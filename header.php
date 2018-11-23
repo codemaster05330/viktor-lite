@@ -6,6 +6,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
+ * @version 1.2.9
  * @package Viktor_lite
  */
 ?><!DOCTYPE html>
@@ -58,7 +59,6 @@ wp_head(); ?>
 
     <!-- slider area-->
     <?php 
-    vikor_lite_slider_temp(); 
     vikor_lite_banner_temp(); 
      ?>    
 

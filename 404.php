@@ -4,6 +4,7 @@
  *
  * @link https://codex.wordpress.org/Creating_an_Error_404_Page
  *
+ * @version 1.2.9
  * @package Viktor_lite
  */
 
