@@ -1,4 +1,4 @@
-# Viktor Lite v1.2.6
+# Viktor Lite v1.2.9
 ![Viktor Lite - Free Wordpress Theme](/screenshot.png)
 
 > Viktor Lite is a clean, creative, elegant, fun, colorful, powerful, motivational, simple, and stylish WordPress theme. Viktor Lite is designed for all type of corporations such as banking, finance, consulting, management, real estate, insurance, legal & law, startup, venture capital, technology, and so on. It is a clean, super flexible, fast in loading, bootstrap based, mobile responsive and modern looking premium quality WordPress theme. It can be used for any business or personal website relating to business, technology, travel, food, people, architecture, health, sports, animals, modern, design, corporate, vector, nature, commerical, holiday, advertising, game, presentation, computer, marketing, building, ecommerce, internet, office, company, digital, portfolio, multipurpose, transportation, fitness, weather, disco, valentine, cafe, sci-fi, agriculture, relaxation, mountain, baby, television, earth, church, cinema, furniture, hospital, healthcare, infographic, vegetarian, smartphone, iphone, android, hip hop, seo, night club, hotel, college.
@@ -99,7 +99,7 @@ The **Viktor Lite WordPress theme** is 100% GPLv2. See headers of files for furt
 
 ## Changelog
 
-### 1.2.6
+### 1.2.9
 * Single banner image udpated.
   
 ### 1.2.5
